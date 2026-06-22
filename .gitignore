@@ -33,3 +33,6 @@ Thumbs.db
 
 # TypeScript caches
 *.tsbuildinfo
+
+# env (synced via sops + age)
+.sops-age-key.txt
